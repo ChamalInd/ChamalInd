@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Chamal Induwara! 🚀
 
-<!--
-**ChamalInd/ChamalInd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 CS Undergrad | Tech Explorer
 
-Here are some ideas to get you started:
+I am a First Year Computer Science student at University of Colombo in Sri Lanka. I’m passionate about bridging the gap between clean code and great user experiences. Currently, I'm focusing on mastering full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to build software that is both impactful and scalable. I love participating in hackathons and collaborating on open-source projects that challenge my problem-solving skills.
+---
+
+### 🛠️ My Toolbox
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass) |
+| **Backend** | ![My Skills](https://skillicons.dev/icons?i=py,flask) |
+| **Tools** | ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman) |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChamalInd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamalInd&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 🔭 What I'm Up To
+- 🔭 I’m currently working on building my resume
+- 🌱 I’m currently learning **Algorithm and Data Structures**
+
+---

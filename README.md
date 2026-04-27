@@ -13,7 +13,7 @@ My goal is to build software that is both impactful and scalable. I love partici
 | :--- | :--- |
 | **Frontend** | ![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,lua) |
 | **Backend** | ![My Skills](https://skillicons.dev/icons?i=py,flask) |
-| **Tools** | ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,love) |
+| **Tools** | ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,löve) |
 
 ---
 

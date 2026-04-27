@@ -11,16 +11,16 @@ My goal is to build software that is both impactful and scalable. I love partici
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | ![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass) |
+| **Frontend** | ![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,lua) |
 | **Backend** | ![My Skills](https://skillicons.dev/icons?i=py,flask) |
-| **Tools** | ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman) |
+| **Tools** | ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,love) |
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChamalInd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChamalInd&show_icons=true&theme=tokyonight&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamalInd&layout=compact&langs_count=10&theme=tokyonight"/>
 </p>
 

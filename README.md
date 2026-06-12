@@ -6,6 +6,6 @@ I am a First Year Computer Science student at University of Colombo in Sri Lanka
 ---
 
 ### My Toolbox
-![My Skills](https://skillicons.dev/icons?i=py,js,lua,html,css)<br>
-![My Skills](https://skillicons.dev/icons?i=bootstrap,sass,flask,git,github)<br>
-![My Skills](https://skillicons.dev/icons?i=vscode,postman,linux)
+![My Skills](https://skillicons.dev/icons?i=py,c,js,lua,html)<br>
+![My Skills](https://skillicons.dev/icons?i=css,bootstrap,sass,flask,git)<br>
+![My Skills](https://skillicons.dev/icons?i=github,vscode,postman,linux)

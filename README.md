@@ -36,15 +36,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=chamalind&theme=dark&hide_border=true" height="160"/>
-
-![](https://github-readme-stats.shion.dev/api?username=chamalind&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=chamalind&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-</div>
